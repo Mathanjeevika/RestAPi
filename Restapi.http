@@ -3,3 +3,5 @@ GET https://reqres.in/api/users
 GET https://reqres.in/api/users/1
 
 GET https://reqres.in/api/users?delay=6
+
+OPTIONS https://reqres.in/api/users?delay=6
